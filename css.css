@@ -1,34 +1,27 @@
 /* Estilo para el cuerpo de la página */
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #000;
-  color: #fff;
-  line-height: 1.6;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+    line-height: 1.6;
 }
 
 /* Estilo para el encabezado */
-header {
-  background-color: #333;
-  color: #fff;
-  text-align: center;
-  padding: 20px;
-}
-
-/* Estilo para los títulos */
 h1 {
-  font-size: 24px;
+    font-size: 24px;
 }
 
 /* Estilo para los enlaces */
 a {
-  color: #007bff;
-  text-decoration: none;
+    color: #007bff;
+    text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
+
 
 
