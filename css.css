@@ -1,35 +1,33 @@
 /* Estilo para el cuerpo de la página */
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
-  /* Fondo degradado */
-  background: linear-gradient(45deg, #ff5733, #c90000);
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  color: #fff;
+  background-color: #f5f5f5;
+  color: #333;
+  line-height: 1.6;
 }
-  
-  /* Estilo para el encabezado */
-  header {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-  }
-  
-  /* Estilo para los títulos */
-  h1 {
-    color: #333;
-  }
-  
-  /* Estilo para los enlaces */
-  a {
-    color: #007bff;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
+
+/* Estilo para el encabezado */
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Estilo para los títulos */
+h1 {
+  color: #333;
+  font-size: 24px;
+}
+
+/* Estilo para los enlaces */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
